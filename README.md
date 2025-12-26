@@ -24,3 +24,11 @@ You can replace the exercise path and the main class with the ones in each READM
 - 07-circuit-breaker: Circuit Breaker
 - 08-events: Event-Driven Boundaries
 - 09-config: Configuration vs Code
+- 10-layered: Layered Architecture
+- 11-hexagonal: Hexagonal (Ports & Adapters)
+- 12-cqrs: CQRS
+- 13-saga: Saga
+- 14-strangler: Strangler Fig
+- 15-event-sourcing: Event Sourcing
+- 16-api-gateway: API Gateway
+- 17-bulkhead: Bulkhead

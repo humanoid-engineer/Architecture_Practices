@@ -29,6 +29,8 @@ public class TaskCli {
             } else {
                 System.out.println("Unknown command");
             }
+
+            scanner.close();
         }
     }
 }
